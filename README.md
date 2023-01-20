@@ -1,1 +1,2 @@
 # odin-recipes
+I will be developing a multipage recipe website. This project is to practice and develop my recently learned HTML skills. I will de demostrating my basic knowledge in adding and structuring content, such as headings, lists, paragraphs, links (absolute and relative) and images (absolute and relative). I will also be simultaneously practicing my skills in using the command line and git. Jan 19 2023. 
